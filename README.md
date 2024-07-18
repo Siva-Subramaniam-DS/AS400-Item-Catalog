@@ -43,3 +43,9 @@ EXPDAT: Expiration Date, 8 characters alphanumeric.
 TAXRAT: Tax Rate, 4 digits with 2 decimal places.
 PRICAT: Price Category, 20 characters alphanumeric.
 LAUPDT: Last Update Date, 8 characters alphanumeric.
+
+![no rec](https://github.com/user-attachments/assets/7de15ac1-fdc6-4d59-8890-706763457adc)
+
+![with rec](https://github.com/user-attachments/assets/028b4343-9ece-44ed-9667-4eb393b4edfe)
+
+![with err rec](https://github.com/user-attachments/assets/a1437e93-8d0e-48fa-a578-cc32cdd86cb8)
