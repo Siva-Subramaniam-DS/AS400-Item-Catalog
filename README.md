@@ -1,6 +1,5 @@
-# `File Declarations and Main Logic` 💻
+# Table of Content 📍
 
-## Table of Contents 📍
 - [File Declarations](#file-declarations)
 - [Main Logic](#main-logic)
 - [Subroutine SBPRC](#subroutine-sbprc)
