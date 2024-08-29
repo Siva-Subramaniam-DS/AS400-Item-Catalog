@@ -1,4 +1,3 @@
-# Item_List
 # File Declarations:
 FVPCMST: Declares a workstation file.
 FFPRCLF: Declares a database file with indexed (keyed) access.
