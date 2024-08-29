@@ -1,6 +1,6 @@
 # `File Declarations and Main Logic` 💻
 
-## Table of Contents :round_pushpin:
+## Table of Contents 📍
 - [File Declarations](#file-declarations)
 - [Main Logic](#main-logic)
 - [Subroutine SBPRC](#subroutine-sbprc)
